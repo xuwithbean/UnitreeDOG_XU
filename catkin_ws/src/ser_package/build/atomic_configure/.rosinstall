@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robocon/Documents/catkin_ws/src/ser_package/build/devel/setup.sh

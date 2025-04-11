@@ -1,0 +1,4 @@
+[main]:system ready!
+[main]:params ready!starting up ...
+[main]:finish start up procedure!
+[main]:start loop

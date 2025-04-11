@@ -1,0 +1,117 @@
+[
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/AutoControl.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/AutoControl.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/AutoControl.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/Connector.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/Connector.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/Connector.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/Console.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/Console.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/Console.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/Controller.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/Controller.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/Controller.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/Debug.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/Debug.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/Debug.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/Gait.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/Gait.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/Gait.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/Hops.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/Hops.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/Hops.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/InitAngle.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/InitAngle.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/InitAngle.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/Kinematics.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/Kinematics.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/Kinematics.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/LegController.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/LegController.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/LegController.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/LegMotors.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/LegMotors.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/LegMotors.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/PacePlanner.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/PacePlanner.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/PacePlanner.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/Record.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/Record.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/Record.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/Sensor.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/Sensor.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/Sensor.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/main.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/main.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/main.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/ser.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/ser.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/ser.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/Src/test.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/Src/test.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/Src/test.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/motor/Src/motor_control.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/motor/Src/motor_control.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/motor/Src/motor_control.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ser_package\\\" -I/home/robocon/Documents/catkin_ws/src/ser_package/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/motor/Inc -I/home/robocon/Documents/catkin_ws/src/ser_package/eigen-3.4.0 -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/ser_package.dir/motor/Src/unitreeMotor.cpp.o -c /home/robocon/Documents/catkin_ws/src/ser_package/motor/Src/unitreeMotor.cpp",
+  "file": "/home/robocon/Documents/catkin_ws/src/ser_package/motor/Src/unitreeMotor.cpp"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build/gtest/googlemock",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build/gtest/googlemock",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build/gtest/googletest",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/robocon/Documents/catkin_ws/src/ser_package/build/gtest/googletest",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]

@@ -1,0 +1,8 @@
+prefix=/home/robocon/Documents/catkin_ws/src/ser_package/build/devel
+
+Name: ser_package
+Description: Description of ser_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
